@@ -19,7 +19,7 @@ A curated list of awesome interactive / [explorable explanations](http://worrydr
 - [Mechanical Watch](https://ciechanow.ski/mechanical-watch/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
 - [Memory Allocation](https://samwho.dev/memory-allocation/) by **Sam Rose** ([samwho.dev](https://samwho.dev/))
 - [Naval Architecture](https://ciechanow.ski/naval-architecture/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
-- [Reading QR codes without a computer!](https://qr.blinry.org/) by **Piko** and **blinry**
+- [Reading QR codes without a computer!](https://qr.blinry.org/) by **Piko** and **blinry** ([blinry.org](https://blinry.org/))
 - [Sound](https://ciechanow.ski/sound/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
 - [Tesseract](https://ciechanow.ski/tesseract/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
 
