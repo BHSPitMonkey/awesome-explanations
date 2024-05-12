@@ -14,6 +14,7 @@ A curated list of awesome interactive / [explorable explanations](http://worrydr
 - [Gears](https://ciechanow.ski/gears/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
 - [GPS](https://ciechanow.ski/gps/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
 - [Hysteresis & Slack](https://joshuahhh.com/projects/hysteresis/) by **Joshua Horowitz** ([joshuahhh.com](https://joshuahhh.com/))
+- [Immersive Linear Algebra](https://immersivemath.com/ila/index.html) by **J. Ström, K. Äström, and T. Akenine-Möller**
 - [Internal Combustion Engine](https://ciechanow.ski/internal-combustion-engine/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
 - [Lights and Shadows](https://ciechanow.ski/lights-and-shadows/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
 - [Load Balancing](https://samwho.dev/load-balancing/) by **Sam Rose** ([samwho.dev](https://samwho.dev/))
