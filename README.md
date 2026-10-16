@@ -4,6 +4,7 @@ A curated list of awesome interactive / [explorable explanations](http://worrydr
 
 # Explanations
 
+- [3D Solar System](https://3dsolarsystem.net/) by **Swee Won**
 - [Airfoil](https://ciechanow.ski/airfoil/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
 - [Alpha Compositing](https://ciechanow.ski/alpha-compositing/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
 - [Bicycle](https://ciechanow.ski/archives/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
