@@ -7,6 +7,7 @@ A curated list of awesome interactive / [explorable explanations](http://worrydr
 - [Airfoil](https://ciechanow.ski/airfoil/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
 - [Alpha Compositing](https://ciechanow.ski/alpha-compositing/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
 - [Bicycle](https://ciechanow.ski/archives/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
+- [Black Hole Light Lab](https://sandboxphysics.com/labs/black-hole-light/) by **Zichao Yang**
 - [Cameras and Lenses](https://ciechanow.ski/cameras-and-lenses/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
 - [Color Spaces](https://ciechanow.ski/color-spaces/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
 - [Curves and Surfaces](https://ciechanow.ski/curves-and-surfaces/) by **Bartosz Ciechanowski** ([ciechanow.ski](https://ciechanow.ski/archives/))
